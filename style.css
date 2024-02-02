@@ -11,5 +11,7 @@ h2{
 body{
     display: flex;
     justify-content: center;
-
+    align-items: center;
+    min-height: 100vh;
+    background-color: #ade8f4 ;
 }
