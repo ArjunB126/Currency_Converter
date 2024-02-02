@@ -20,5 +20,6 @@ body{
     background-color:#f1faee;
     padding: 2rem;
     border-radius: 1rem;
-
+    min-height: 45vh;
+    width: 40vh;
 }
