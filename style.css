@@ -15,3 +15,10 @@ body{
     min-height: 100vh;
     background-color: #ade8f4 ;
 }
+
+.container{
+    background-color:#f1faee;
+    padding: 2rem;
+    border-radius: 1rem;
+
+}
