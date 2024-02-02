@@ -27,3 +27,7 @@ body{
 .container:hover{
     box-shadow: 1px 1px 2px black, 0 0 25px #0096c7, 0 0 5px #003566;
 }
+
+form{
+    margin: 2rem 0 2rem 0;
+}
