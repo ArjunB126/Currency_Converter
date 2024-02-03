@@ -38,3 +38,10 @@ form select, button, input{
     outline: none;
     border-radius: 0.50rem;
 }
+
+form input{
+    border: 1px solid lightslategray;
+    height:3rem;
+    font-size: 1rem;
+    padding-left: 0.5rem;
+}
