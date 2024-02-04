@@ -18,5 +18,10 @@ for (let select of dropdown)
         {
             newOption.selected = "selected";
         }
+        else if (select.name === "to" && currCode === "INR"){
+            newOption.selected = "selected";
+        }
+        select.append(newOption);
+    }
 
 }
