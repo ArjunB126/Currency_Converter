@@ -14,5 +14,9 @@ for (let select of dropdown)
         let newOption = document.createElement("option");
         newOption.innerText = currCode;
         newOption.value= currCode;
+        if (select.name ==="from" && currCode === "USD") 
+        {
+            newOption.selected = "selected";
+        }
 
 }
