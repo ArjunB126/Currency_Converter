@@ -27,3 +27,9 @@ for (let select of dropdown)
             updateFlag(evt.target)
         })
 }
+
+const updateFlag = (element)=>{
+    let currCode = element.value;
+    let countryCode  = countryList [currCode];
+
+}
