@@ -23,5 +23,7 @@ for (let select of dropdown)
         }
         select.append(newOption);
     }
-
+        select.addEventListener("change" , (evt) => {
+            updateFlag(evt.target)
+        })
 }
