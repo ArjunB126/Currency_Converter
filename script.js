@@ -38,4 +38,6 @@ const updateFlag = (element)=>{
 
 btn.addEventListener("click" , async (evt)=>{
     evt.preventDefault();
-
+   let amount = document.querySelector(".amount input");
+   let amountValue1 = amount.value;
+   console.log(amountValue1);
