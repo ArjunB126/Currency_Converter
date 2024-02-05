@@ -52,3 +52,6 @@ btn.addEventListener("click" , async (evt)=>{
     let data = await response.json();
     let rate = data[toCurr.value.toLowerCase()];
   
+    let finalAmount = amountValue1 * rate;
+    msg.innerText = `${amountValue1} ${fromCurr.value} = ${finalAmount} ${toCurr.value}`;
+})
