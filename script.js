@@ -46,3 +46,4 @@ btn.addEventListener("click" , async (evt)=>{
          amountValue1 = 1;
          amount.value = "1";
      }
+     const URL = `${BASE_URL}/${ fromCurr.value.toLowerCase()}
