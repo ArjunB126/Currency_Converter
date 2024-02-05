@@ -47,3 +47,6 @@ btn.addEventListener("click" , async (evt)=>{
          amount.value = "1";
      }
      const URL = `${BASE_URL}/${ fromCurr.value.toLowerCase()}
+     ${toCurr.value.toLowerCase()}.json`;
+    let response = await fetch(URL);
+    
