@@ -5,3 +5,5 @@ Welcome to the Currency Converter! Easily convert any currency to another with j
 ## Features:
 
 - **Simple Interface**: Clean and intuitive design for effortless navigation.
+- **Real-Time Rates**: Up-to-date exchange rates ensure accurate conversions.
+- **Multi-Currency Support**: Convert between over 50+ currencies worldwide.
