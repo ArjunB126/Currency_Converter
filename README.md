@@ -17,3 +17,9 @@ Welcome to the Currency Converter! Easily convert any currency to another with j
 3. **Select Currencies**: Choose your starting currency and the currency you want to convert to from the dropdown menus.
 4. **Enter Amount**: Input the amount you wish to convert.
 5. **Instant Conversion**: Instantly see the converted amount based on real-time exchange rates.
+
+## Technologies Used:
+
+- HTML
+- CSS
+- JavaScript
