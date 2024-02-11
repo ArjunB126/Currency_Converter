@@ -15,3 +15,5 @@ Welcome to the Currency Converter! Easily convert any currency to another with j
 1. **Installation**: No installation required! Simply clone or download the repository to get started.
 2. **Usage**: Open the `index.html` file in your web browser, and you're ready to convert currencies.
 3. **Select Currencies**: Choose your starting currency and the currency you want to convert to from the dropdown menus.
+4. **Enter Amount**: Input the amount you wish to convert.
+5. **Instant Conversion**: Instantly see the converted amount based on real-time exchange rates.
