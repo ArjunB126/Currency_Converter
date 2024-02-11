@@ -28,8 +28,4 @@ Welcome to the Currency Converter! Easily convert any currency to another with j
 
 This currency converter utilizes the latest exchange rate data from reliable sources to provide accurate conversions in real-time. It fetches the current exchange rates via an API and dynamically updates the conversion based on user input.
 
-## Support:
-
-For any inquiries or support, please contact [@arjunB126].
-
 Happy converting! 💰✨
