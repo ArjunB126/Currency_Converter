@@ -20,12 +20,12 @@ Welcome to the Currency Converter! Easily convert any currency to another with j
 
 ## Technologies Used:
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
 ## How It Works:
 
-This currency converter utilizes the latest exchange rate data from reliable sources to provide accurate conversions in real-time. It fetches the current exchange rates via an API and dynamically updates the conversion based on user input.
+This currency converter utilizes the latest exchange rate data from reliable sources to provide accurate conversions in real-time. It fetches the current exchange rates via an API and dynamically updates the conversion based on user input.  One of the use case is that it can also help in financial Planning if you are moving from One Country to Anothere 
 
 Happy converting! 💰✨
